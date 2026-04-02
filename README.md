@@ -8,7 +8,7 @@
 
 ## 📄 Report
 The full PDF report is included here:  
-- [Vulnerability_Assessment_Planning_Report.pdf](./Vulnerability_Assessment_Planning_Report.pdf)
+- [Vulnerability_Assessment_Planning_Report.pdf](.https://github.com/krishantha-cyber/vulnapp-assessment-report/blob/main/Vulnerability%20Assessment%20Planning%20Report.pdf)
 
 ---
 
