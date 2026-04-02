@@ -8,7 +8,7 @@
 
 ## 📄 Report
 The full PDF report is included here:  
-[📕 Vulnerability Assessment Planning Report.pdf](./Vulnerability Assessment Planning Report.pdf)
+[📕 Vulnerability_Assessment_Planning_Report.pdf](./Vulnerability_Assessment_Planning_Report.pdf)
 
 ---
 
